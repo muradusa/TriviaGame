@@ -2,3 +2,11 @@
     text-align: center;
 }
 
+.container {
+    height: 500px;
+    padding: 200px 350px;
+}
+
+/* .start {
+    /* padding: 200px 350px; */
+} */
